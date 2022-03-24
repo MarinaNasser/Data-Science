@@ -11,6 +11,6 @@ EnergiaPowered Data Science Workshop Assignments
       Problem no. 6: https://drive.google.com/file/d/1p-cWSLfRZ6vSIvpYwg5lIuAKerHi283H/view?usp=sharing
       
 ## Second Session: Statistics & Numpy
-## Third Session: Pandas
+## Third Session: Pandas & Data Manipulation
 ## Fourth Session: Visualization
 ## Fifth Session: Machine Learning 
