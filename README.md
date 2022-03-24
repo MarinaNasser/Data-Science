@@ -1,5 +1,5 @@
 # Data-Science
-EnergiaPowered Data Science Workshop Assignments
+EnergiaPowered Data Science Workshop 
 
 ## First Session: Intro to Python
 ## Assignment 1: 6 problems from codeforces
